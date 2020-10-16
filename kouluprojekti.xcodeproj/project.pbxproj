@@ -37,7 +37,6 @@
 			isa = PBXGroup;
 			children = (
 				AEE952E72531FA2D0019BCF9 /* kouluprojekti */,
-				AEE952E62531FA2D0019BCF9 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
@@ -47,6 +46,7 @@
 				AEE952E52531FA2D0019BCF9 /* kouluprojekti.app */,
 			);
 			name = Products;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		AEE952E72531FA2D0019BCF9 /* kouluprojekti */ = {
@@ -57,6 +57,7 @@
 				AEE952EC2531FA2D0019BCF9 /* Assets.xcassets */,
 				AEE952F12531FA2E0019BCF9 /* Info.plist */,
 				AEE952EE2531FA2D0019BCF9 /* Preview Content */,
+				AEE952E62531FA2D0019BCF9 /* Products */,
 			);
 			path = kouluprojekti;
 			sourceTree = "<group>";
